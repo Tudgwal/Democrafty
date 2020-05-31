@@ -1,0 +1,20 @@
+name: Democrafty
+version: 1.0
+author: tudgwal
+main: fr.tudgwal.democrafty.Main
+api-version: 1.15
+depend: [Vault]
+commands:
+  democrafty:
+    usage: /democrafty
+    description: list all the command of the plugin
+  dc:
+    usage: /dc
+    description: shortener for /democrafty
+permissions:
+  democrafty.admin:
+    description: allow user to use command
+    default: false
+  democrafty.player:
+    description: allow user to vote
+    default: false

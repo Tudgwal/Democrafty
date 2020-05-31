@@ -1,0 +1,25 @@
+help: Liste des différentes commandes disponibles
+help_help: Permet de lister les différentes commandes accessibles.
+help_create: Permet de créer un nouveau vote. La date doit être au format "HH:MM-JJ/MM/AAAA".
+help_edit: Permet d'editer les horaires d'un vote.
+help_info: Permet de connaitre les information du vote.
+help_list: Permet de lister tous les votes enregistré.
+help_result: Donne les résultats du vote.
+help_remove: Supprime le vote.
+help_panel_remove: Permet de casser un panneau Democrafty.
+error_date_format: Le format de la date n'est pas correcte.
+error_date: Le vote n'a pas encore commencé ou est déjà fini.
+error_name: Le vote que vous avez demandé n'existe pas.
+error_perm_user: Vous ne pouvez pas voter.
+error_perm_panel: Vous ne pouvez pas casser ce panneau
+success_new_vote: Vous avez créé le vote
+success_update_vote: Vous avez mis à jour le vote
+success_vote: Votre vote a été pris en compte!
+name: Nom
+begin_date: Date de début
+end_date: Date de fin
+result: Les résultats du vote sont
+delete_table: La table a été supprimé.
+delete_unable: Vous ne pouvez pas supprimer cette table.
+no_vote: Personne n'a encore voté.
+already_vote: Tu as déjà voté!
